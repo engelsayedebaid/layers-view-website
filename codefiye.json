@@ -1,0 +1,172 @@
+{
+  "cfVersion": 1,
+  "name": {
+    "ar": "Home - Foxterra Design",
+    "en": "foxterradesign.com"
+  },
+  "category": "other",
+  "thumbnail": "thumbnail.jpg",
+  "source": "https://foxterradesign.com/",
+  "pages": [
+    {
+      "file": "index.html",
+      "label": "Home - Foxterra Design"
+    },
+    {
+      "file": "contact-us/index.html",
+      "label": "Contact Us - Foxterra Design"
+    },
+    {
+      "file": "style/classic/index.html",
+      "label": "Classic Archives - Foxterra Design"
+    },
+    {
+      "file": "style/transitional/index.html",
+      "label": "Transitional Archives - Foxterra Design"
+    },
+    {
+      "file": "style/tropical-modern/index.html",
+      "label": "Tropical Modern Archives - Foxterra Design"
+    },
+    {
+      "file": "style/modern/index.html",
+      "label": "Modern Archives - Foxterra Design"
+    },
+    {
+      "file": "style/mediterranean/index.html",
+      "label": "Mediterranean Archives - Foxterra Design"
+    },
+    {
+      "file": "style/zen/index.html",
+      "label": "Zen Archives - Foxterra Design"
+    },
+    {
+      "file": "feature/fire-pit/index.html",
+      "label": "Fire Pit Archives - Foxterra Design"
+    },
+    {
+      "file": "feature/fire-feature/index.html",
+      "label": "Fire Feature Archives - Foxterra Design"
+    },
+    {
+      "file": "feature/lounge-area/index.html",
+      "label": "Lounge Area Archives - Foxterra Design"
+    },
+    {
+      "file": "feature/infinity-edge/index.html",
+      "label": "Infinity Edge Archives - Foxterra Design"
+    },
+    {
+      "file": "feature/outdoor-kitchen/index.html",
+      "label": "Outdoor Kitchen Archives - Foxterra Design"
+    },
+    {
+      "file": "our-process/index.html",
+      "label": "Our Process - Foxterra Design"
+    },
+    {
+      "file": "feature/sunken-seating-area/index.html",
+      "label": "Sunken Seating Area Archives - Foxterra Design"
+    },
+    {
+      "file": "portfolio/index.html",
+      "label": "Portfolio Archive - Foxterra Design"
+    },
+    {
+      "file": "blog/index.html",
+      "label": "Blog - Foxterra Design"
+    },
+    {
+      "file": "locations/index.html",
+      "label": "Locations - Foxterra Design"
+    },
+    {
+      "file": "videos/index.html",
+      "label": "Videos - Foxterra Design"
+    },
+    {
+      "file": "portfolio/tranquil-heights/index.html",
+      "label": "Tranquil Heights - Foxterra Design"
+    },
+    {
+      "file": "in-the-news/index.html",
+      "label": "In The News - Foxterra Design"
+    },
+    {
+      "file": "portfolio/santorini-tides/index.html",
+      "label": "Santorini Tides - Foxterra Design"
+    },
+    {
+      "file": "portfolio/stone-grotto/index.html",
+      "label": "Stone Grotto - Foxterra Design"
+    },
+    {
+      "file": "about-us/index.html",
+      "label": "About Us - Foxterra Design"
+    },
+    {
+      "file": "portfolio/soluna/index.html",
+      "label": "Soluna - Foxterra Design"
+    },
+    {
+      "file": "a-dining-table-in-the-pool/index.html",
+      "label": "A Dining Table in the Pool? - Foxterra Design"
+    },
+    {
+      "file": "foxterra-featured-in-livingetcs-5-spots-to-position-spotligh/index.html",
+      "label": "Foxterra Featured in Livingetc’s “5 Spots to Position Spotlights in Your Garden” - Foxterra Design"
+    },
+    {
+      "file": "would-you-add-a-sunken-fire-pit-to-your-yard/index.html",
+      "label": "Would You Add a Sunken Fire Pit to Your Yard? - Foxterra Design"
+    },
+    {
+      "file": "portfolio/white-raven/index.html",
+      "label": "White Raven - Foxterra Design"
+    },
+    {
+      "file": "a-newport-coast-backyard-you-can-spend-your-entire-day-in/index.html",
+      "label": "A Newport Coast Backyard You Can Spend Your Entire Day In - Foxterra Design"
+    },
+    {
+      "file": "5-luxury-pools-with-a-view/index.html",
+      "label": "5 Luxury Pools With A View  - Foxterra Design"
+    },
+    {
+      "file": "5-luxury-backyard-sports-courts-designed-for-pickleball-bask/index.html",
+      "label": "5 Luxury Backyard Sports Courts Designed for Pickleball, Basketball & More - Foxterra Design"
+    },
+    {
+      "file": "dont-regret-your-yard-why-thoughtful-backyard-design-matters/index.html",
+      "label": "Don’t Regret Your Yard: Why Thoughtful Backyard Design Matters - Foxterra Design"
+    },
+    {
+      "file": "how-we-design-for-desert-heat-coastal-weather-and-cold-clima/index.html",
+      "label": "How We Design for Desert Heat, Coastal Weather, and Cold Climates - Foxterra Design"
+    },
+    {
+      "file": "portfolio/delray-shores/index.html",
+      "label": "Delray Shores - Foxterra Design"
+    },
+    {
+      "file": "portfolio/le-montrose/index.html",
+      "label": "Le Montrose - Foxterra Design"
+    },
+    {
+      "file": "portfolio/ridgecroft/index.html",
+      "label": "Ridgecroft - Foxterra Design"
+    },
+    {
+      "file": "portfolio/the-elysian/index.html",
+      "label": "The Elysian - Foxterra Design"
+    },
+    {
+      "file": "portfolio/summit-house/index.html",
+      "label": "Summit House - Foxterra Design"
+    },
+    {
+      "file": "portfolio/villa-delio/index.html",
+      "label": "Villa Delio - Foxterra Design"
+    }
+  ]
+}
